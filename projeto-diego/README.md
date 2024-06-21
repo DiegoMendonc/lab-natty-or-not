@@ -20,4 +20,4 @@ Apresente os resultados do seu projeto
 ## 💭 Reflexão (Opcional)
 Um e-book muito caprichado e sunsinto, onde apresenta uma introdução sobre a evolução do tema Machine Learning.
 
-[LINK PARA O MEU E-BOOK](/)
+[LINK PARA O MEU E-BOOK](/projeto-diego/E-book_machine_learning.docx)
