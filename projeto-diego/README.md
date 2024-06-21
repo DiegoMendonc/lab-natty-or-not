@@ -18,4 +18,4 @@ Para concluir, a montagem final foi feita no Libre Office, por ser uma ferrament
 ## 🚀 Resultados
 Um e-book muito caprichado e sunsinto, onde apresenta uma introdução sobre a evolução do tema Machine Learning.
 
-[LINK PARA O MEU E-BOOK](/projeto-diego/E-book_machine_learning.docx)
+[LINK PARA O E-BOOK AQUI]()
